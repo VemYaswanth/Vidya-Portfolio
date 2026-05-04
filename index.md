@@ -12,18 +12,17 @@ css: /assets/style.css
 
 <section>
 
-# Vidya Vardhini Kurada
-
+# Vidya Vardhini Kurada  
 **Analytics Engineer | Data Analyst | CRM Data Specialist**
 
-I’m a data‑driven problem solver with a strong foundation in **Python, SQL, Tableau, Power BI**, and **Salesforce CRM**.  
-With 3+ years of experience across **Sales Operations**, **App Development**, and **Data Analytics**, I specialize in transforming complex datasets into clear, actionable insights that drive business decisions.
+</section>
 
----
+<section>
 
 ## 🔹 About Me
 
-I’m currently pursuing my **M.Sc. in Computer Science at Saarland University**, focusing on analytics, data modeling, and visualization.  
+I’m currently pursuing my **M.Sc. in Computer Science at Saarland University**, focusing on analytics, data modeling, and visualization.
+
 My professional background blends:
 
 - Data analytics & visualization  
@@ -37,7 +36,9 @@ From your resume:
 
 I enjoy building systems that make data trustworthy, accessible, and genuinely useful for decision‑makers.
 
----
+</section>
+
+<section>
 
 ## 🔹 Technical Skills
 
@@ -47,7 +48,9 @@ I enjoy building systems that make data trustworthy, accessible, and genuinely u
 **Tools:** Git, Jira, Azure DevOps, Salesforce CRM  
 **Languages:** English (C1), German (A1)
 
----
+</section>
+
+<section>
 
 ## 🔹 Experience
 
@@ -69,7 +72,9 @@ I enjoy building systems that make data trustworthy, accessible, and genuinely u
 - Improved data flow systems, reducing inconsistencies between service and order records.  
 - Awarded **“Most Valuable Player of the Month”** and **“Star Performer.”**
 
----
+</section>
+
+<section>
 
 ## 🔹 Projects
 
@@ -99,14 +104,18 @@ I enjoy building systems that make data trustworthy, accessible, and genuinely u
 - Built a hybrid XAI simulation framework for cost‑reduction strategies.  
 - Achieved potential savings of **up to $10,460 per patient**.
 
----
+</section>
+
+<section>
 
 ## 🔹 Education
 
 **M.Sc. Computer Science** — Saarland University, Germany  
 **B.Tech Electronics & Communication Engineering** — GITAM University, India
 
----
+</section>
+
+<section>
 
 ## 🔹 Interests
 
@@ -115,9 +124,12 @@ Embroidery & creative crafts
 Nature walks around Saarland  
 Traveling with friends
 
----
+</section>
 
-## 🔹 Contact
+<section>
+
+## 🔹 Contact  
+<a id="contact"></a>
 
 📧 **Email:** vidyavardhinikurada@gmail.com  
 📍 Saarbrücken, Germany  
