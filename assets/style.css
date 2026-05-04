@@ -7,7 +7,7 @@ body {
   padding: 0 20px;
 
   /* Rich Lavender Gradient */
-  background: linear-gradient(135deg, #c7a4ff, #8f5bff);
+  background: linear-gradient(135deg, #d9fff5, #c8e7ff, #e9d8ff);
   color: #1a1a1a;
   animation: fadeIn 1s ease forwards;
   opacity: 0;
