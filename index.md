@@ -1,3 +1,11 @@
+---
+title: "Vidya Vardhini Kurada"
+css: /assets/style.css
+---
+
+
+
+
 <nav>
   <a href="/">Home</a> |
   <a href="/projects">Projects</a> |
