@@ -4,7 +4,6 @@ layout: default
 css: "/assets/style.css"
 ---
 
-
 <nav>
   <a href="/">Home</a> |
   <a href="/projects">Projects</a> |
@@ -12,10 +11,16 @@ css: "/assets/style.css"
   <a href="/#contact">Contact</a>
 </nav>
 
-<section>
-<h1>Vidya Vardhini Kurada</h1>
-<p><strong>Analytics Engineer | Data Analyst | CRM Data Specialist</strong></p>
-</section>
+<div class="hero">
+  <!-- Upload your photo and replace photo.jpg -->
+  <img src="/assets/photo.jpg" alt="Profile Photo">
+
+  <h1>Vidya Vardhini Kurada</h1>
+  <p>Analytics Engineer • Data Analyst • CRM Data Specialist</p>
+</div>
+
+<div class="divider"></div>
+
 
 <section>
 <h2>🔹 About Me</h2>
