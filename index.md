@@ -13,7 +13,7 @@ css: "/assets/style.css"
 
 <div class="hero">
   <!-- Upload your photo and replace photo.jpg -->
-  <img src="/assets/photo.jpg" alt="Profile Photo">
+  <img src="/assets/professional pic.png" alt="Vidya Photo">
 
   <h1>Vidya Vardhini Kurada</h1>
   <p>Analytics Engineer • Data Analyst • CRM Data Specialist</p>
