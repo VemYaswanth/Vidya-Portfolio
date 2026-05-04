@@ -1,3 +1,13 @@
+<nav>
+  <a href="/">Home</a> |
+  <a href="/projects">Projects</a> |
+  <a href="/resume">Resume</a> |
+  <a href="/#contact">Contact</a>
+</nav>
+
+---
+
+
 # Vidya Vardhini Kurada
 
 **Analytics Engineer | Data Analyst | CRM Data Specialist**
