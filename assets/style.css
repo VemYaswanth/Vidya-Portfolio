@@ -5,22 +5,25 @@ body {
   max-width: 900px;
   margin: 40px auto;
   padding: 0 20px;
+
+  /* Lavender Mist Background */
+  background: linear-gradient(135deg, #faf5ff, #f3e8ff);
   color: #1a1a1a;
-  background: #fafafa;
 }
 
 /* ---------- NAVIGATION ---------- */
 nav {
-  background: white;
+  background: rgba(255, 255, 255, 0.85);
   padding: 14px 20px;
-  border-radius: 10px;
+  border-radius: 12px;
   margin-bottom: 30px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
   text-align: center;
+  backdrop-filter: blur(6px);
 }
 
 nav a {
-  color: #0366d6;
+  color: #7c3aed; /* Lavender accent */
   text-decoration: none;
   margin: 0 12px;
   font-weight: 600;
@@ -28,22 +31,23 @@ nav a {
 }
 
 nav a:hover {
-  color: #024ea4;
+  color: #5b21b6;
   text-decoration: underline;
 }
 
 /* ---------- HEADINGS ---------- */
 h1 {
-  font-size: 2.4rem;
+  font-size: 2.5rem;
   font-weight: 800;
   margin-top: 10px;
   margin-bottom: 10px;
   text-align: center;
+  color: #4c1d95; /* Deep lavender */
 }
 
 h2, h3 {
   margin-top: 40px;
-  color: #111;
+  color: #4c1d95;
   font-weight: 700;
 }
 
@@ -51,37 +55,38 @@ h2, h3 {
 section, .content-block {
   background: white;
   padding: 30px;
-  border-radius: 12px;
+  border-radius: 14px;
   margin-bottom: 30px;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.05);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
 }
 
 /* ---------- LINKS ---------- */
 a {
-  color: #0366d6;
+  color: #7c3aed;
   font-weight: 500;
 }
 
 a:hover {
-  color: #024ea4;
+  color: #5b21b6;
 }
 
 /* ---------- BUTTON ---------- */
 .button {
   display: inline-block;
   padding: 14px 22px;
-  background-color: #0366d6;
+  background-color: #7c3aed; /* Lavender button */
   color: white !important;
   border-radius: 8px;
   font-weight: 600;
   text-decoration: none;
   font-size: 1.05rem;
   margin-top: 12px;
-  transition: background 0.2s ease;
+  transition: background 0.2s ease, transform 0.15s ease;
 }
 
 .button:hover {
-  background-color: #024ea4;
+  background-color: #5b21b6;
+  transform: translateY(-2px);
 }
 
 /* ---------- LISTS ---------- */
@@ -99,6 +104,6 @@ footer {
   text-align: center;
   margin-top: 40px;
   padding: 20px;
-  color: #666;
+  color: #6b7280;
   font-size: 0.9rem;
 }
