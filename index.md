@@ -1,7 +1,9 @@
 ---
 title: "Vidya Vardhini Kurada"
-css: /assets/style.css
+layout: default
+css: "/assets/style.css"
 ---
+
 
 <nav>
   <a href="/">Home</a> |
