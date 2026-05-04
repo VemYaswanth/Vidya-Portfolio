@@ -135,5 +135,4 @@ css: /assets/style.css
 
 </section>
 
----
 <p><em>This site is built with GitHub Pages and hosted at <strong>kvvardhini.me</strong></em></p>
