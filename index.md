@@ -1,82 +1,120 @@
 # Vidya Vardhini Kurada
 
-**Analytics Engineer | Data Engineering | CRM Data | SQL & Python**
+**Analytics Engineer | Data Analyst | CRM Data Specialist**
 
-I build reliable, scalable data pipelines and analytics systems that turn messy operational data into clear, actionable insights. My work blends **data engineering**, **analytics modeling**, and **CRM domain expertise** — especially Salesforce and customer lifecycle data.
+I’m a data‑driven problem solver with a strong foundation in **Python, SQL, Tableau, Power BI**, and **Salesforce CRM**.  
+With 3+ years of experience across **Sales Operations**, **App Development**, and **Data Analytics**, I specialize in transforming complex datasets into clear, actionable insights that drive business decisions.
 
 ---
 
 ## 🔹 About Me
 
-I’m a Master’s student in Computer Science at Saarland University, currently transitioning into **Analytics Engineering / Data Cloud / Data Engineering** roles.  
-My strengths sit at the intersection of:
+I’m currently pursuing my **M.Sc. in Computer Science at Saarland University**, focusing on analytics, data modeling, and visualization.  
+My professional background blends:
 
-- SQL & Python for analytics engineering  
-- CRM data modeling (Salesforce)  
-- Data pipelines & automation  
-- Dashboarding and business insights  
-- Customer segmentation & behavioral analytics  
+- Data analytics & visualization  
+- CRM data quality & automation  
+- Executive dashboard design  
+- Requirements engineering  
+- ETL, data cleaning, and statistical modeling  
+
+From your resume:  
+> “Experience building executive dashboards and transforming complex data into actionable insights.”  
+
 
 I enjoy building systems that make data trustworthy, accessible, and genuinely useful for decision‑makers.
 
 ---
 
-## 🔹 Featured Projects
+## 🔹 Technical Skills
 
-### **1. CRM → Data Warehouse Pipeline (dbt + SQL + Python)**
-A full ELT pipeline simulating Salesforce objects (Accounts, Contacts, Cases, Opportunities) and transforming them into analytics‑ready marts using dbt.
-
-**Highlights:**
-- Staging → Intermediate → Marts modeling  
-- Data quality tests  
-- Churn & revenue dashboards  
-- Warehouse: Snowflake / BigQuery / Postgres  
-
-[View Project](#)
+**Languages & Databases:** Python (Pandas, NumPy, Scikit‑Learn), SQL (PostgreSQL, MySQL), Java, C  
+**BI & Visualization:** Tableau (LOD, Calculated Fields), Power BI (DAX)  
+**Analytics:** RFM Segmentation, Explainable AI (SHAP, LIME), Statistical Analysis  
+**Tools:** Git, Jira, Azure DevOps, Salesforce CRM  
+**Languages:** English (C1), German (A1)
 
 ---
 
-### **2. Forecasting & Explainable AI (Python + SHAP)**
-Time‑series forecasting for customer support volume with interpretable ML.
+## 🔹 Experience
 
-**Highlights:**
-- scikit‑learn models  
-- SHAP explainability  
-- Clean notebook + visualizations  
-- Optional Streamlit deployment  
+### **Working Student – Sales Operations | Emnify**  
+*Feb 2024 – Mar 2026 | Remote, Germany*
 
-[View Project](#)
-
----
-
-### **3. Automated Data Pipeline (Airflow/Prefect + S3 + SQL)**
-A production‑style pipeline that ingests public data daily, transforms it, and loads it into a warehouse.
-
-**Highlights:**
-- Orchestration with Airflow/Prefect  
-- Dockerized environment  
-- Alerts & monitoring  
-- Data validation  
-
-[View Project](#)
+- Ensured Salesforce CRM data integrity by validating and cleaning **15% of 500+ fields**.  
+    
+- Built Salesforce automations, reports, and dashboards to streamline operations.  
+- Managed contract implementation and aligned business processes with system workflows.
 
 ---
 
-## 🔹 Skills
+### **Packaged App Development Associate | Accenture**  
+*Jul 2021 – Sep 2023 | Hyderabad, India*
 
-**Languages:** SQL, Python  
-**Tools:** dbt, Airflow, Prefect, Docker  
-**Cloud:** AWS (S3, Lambda), Snowflake, BigQuery  
-**Analytics:** Power BI, Tableau  
-**CRM:** Salesforce (Admin + Service Cloud Certified)
+- Gathered requirements and translated complex customer service needs into reporting standards.  
+- Redesigned dashboards, removing unnecessary metrics to improve clarity and performance.  
+- Built a real‑time Customer Service Order Management dashboard in Salesforce.  
+- Improved data flow systems, reducing inconsistencies between service and order records.  
+- Awarded **“Most Valuable Player of the Month”** and **“Star Performer.”**  
+  
+
+---
+
+## 🔹 Projects
+
+### **E‑commerce Revenue Optimization & RFM Segmentation**  
+*PostgreSQL, Power BI*
+
+- Analyzed a **$7.26M dataset**, uncovering **$326,501 in operational waste**.  
+    
+- Modeled an **8.4× efficiency shift** by reallocating marketing spend.  
+- Built an RFM model to identify “Champion” customers and retention opportunities.  
+- Designed a narrative‑driven dashboard for executive decision‑making.
+
+---
+
+### **Holiday Sales Promo Dashboard**  
+*Tableau*
+
+- Built executive dashboards with KPI tiles, comparative charts, and dynamic tooltips.  
+- Created uplift metrics (Promo vs Organic) to identify underperforming segments.  
+- Applied institutional‑grade formatting and published on Tableau Public.  
+  
+
+---
+
+### **Explainable & Agentic AI for Hospital Cost Management**  
+*Python, SHAP, LIME*
+
+- Analyzed SPARCS inpatient data to identify key cost drivers.  
+- Built a hybrid XAI simulation framework for cost‑reduction strategies.  
+- Achieved potential savings of **up to $10,460 per patient**.  
+  
+
+---
+
+## 🔹 Education
+
+**M.Sc. Computer Science** — Saarland University, Germany  
+**B.Tech Electronics & Communication Engineering** — GITAM University, India
+
+---
+
+## 🔹 Interests
+
+Reading (self‑help, biographies, fiction)  
+Embroidery & creative crafts  
+Nature walks around Saarland  
+Traveling with friends
 
 ---
 
 ## 🔹 Contact
 
-📧 **Email:** vidya@example.com  
-🔗 **LinkedIn:** https://linkedin.com/in/yourprofile  
-📁 **GitHub:** https://github.com/Vidya-0119  
+📧 **Email:** vidyavardhinikurada@gmail.com  
+📍 Saarbrücken, Germany  
+🔗 **LinkedIn:** *Add your link here*  
+🔗 **GitHub:** https://github.com/Vidya-0119  
 
 ---
 
