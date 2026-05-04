@@ -11,133 +11,129 @@ css: /assets/style.css
 </nav>
 
 <section>
-
-# Vidya Vardhini Kurada  
-**Analytics Engineer | Data Analyst | CRM Data Specialist**
-
+<h1>Vidya Vardhini Kurada</h1>
+<p><strong>Analytics Engineer | Data Analyst | CRM Data Specialist</strong></p>
 </section>
 
 <section>
+<h2>🔹 About Me</h2>
 
-## 🔹 About Me
+<p>I’m currently pursuing my <strong>M.Sc. in Computer Science at Saarland University</strong>, focusing on analytics, data modeling, and visualization.</p>
 
-I’m currently pursuing my **M.Sc. in Computer Science at Saarland University**, focusing on analytics, data modeling, and visualization.
+<p>My professional background blends:</p>
 
-My professional background blends:
+<ul>
+  <li>Data analytics & visualization</li>
+  <li>CRM data quality & automation</li>
+  <li>Executive dashboard design</li>
+  <li>Requirements engineering</li>
+  <li>ETL, data cleaning, and statistical modeling</li>
+</ul>
 
-- Data analytics & visualization  
-- CRM data quality & automation  
-- Executive dashboard design  
-- Requirements engineering  
-- ETL, data cleaning, and statistical modeling  
+<blockquote>“Experience building executive dashboards and transforming complex data into actionable insights.”</blockquote>
 
-From your resume:  
-> “Experience building executive dashboards and transforming complex data into actionable insights.”
-
-I enjoy building systems that make data trustworthy, accessible, and genuinely useful for decision‑makers.
-
+<p>I enjoy building systems that make data trustworthy, accessible, and genuinely useful for decision‑makers.</p>
 </section>
 
 <section>
+<h2>🔹 Technical Skills</h2>
 
-## 🔹 Technical Skills
-
-**Languages & Databases:** Python (Pandas, NumPy, Scikit‑Learn), SQL (PostgreSQL, MySQL), Java, C  
-**BI & Visualization:** Tableau (LOD, Calculated Fields), Power BI (DAX)  
-**Analytics:** RFM Segmentation, Explainable AI (SHAP, LIME), Statistical Analysis  
-**Tools:** Git, Jira, Azure DevOps, Salesforce CRM  
-**Languages:** English (C1), German (A1)
-
+<p><strong>Languages & Databases:</strong> Python (Pandas, NumPy, Scikit‑Learn), SQL (PostgreSQL, MySQL), Java, C</p>
+<p><strong>BI & Visualization:</strong> Tableau (LOD, Calculated Fields), Power BI (DAX)</p>
+<p><strong>Analytics:</strong> RFM Segmentation, Explainable AI (SHAP, LIME), Statistical Analysis</p>
+<p><strong>Tools:</strong> Git, Jira, Azure DevOps, Salesforce CRM</p>
+<p><strong>Languages:</strong> English (C1), German (A1)</p>
 </section>
 
 <section>
+<h2>🔹 Experience</h2>
 
-## 🔹 Experience
+<h3>Working Student – Sales Operations | Emnify</h3>
+<p><em>Feb 2024 – Mar 2026 | Remote, Germany</em></p>
 
-### **Working Student – Sales Operations | Emnify**  
-*Feb 2024 – Mar 2026 | Remote, Germany*
+<ul>
+  <li>Ensured Salesforce CRM data integrity by validating and cleaning <strong>15% of 500+ fields</strong>.</li>
+  <li>Built Salesforce automations, reports, and dashboards to streamline operations.</li>
+  <li>Managed contract implementation and aligned business processes with system workflows.</li>
+</ul>
 
-- Ensured Salesforce CRM data integrity by validating and cleaning **15% of 500+ fields**.  
-- Built Salesforce automations, reports, and dashboards to streamline operations.  
-- Managed contract implementation and aligned business processes with system workflows.
+<hr>
 
----
+<h3>Packaged App Development Associate | Accenture</h3>
+<p><em>Jul 2021 – Sep 2023 | Hyderabad, India</em></p>
 
-### **Packaged App Development Associate | Accenture**  
-*Jul 2021 – Sep 2023 | Hyderabad, India*
-
-- Gathered requirements and translated complex customer service needs into reporting standards.  
-- Redesigned dashboards, removing unnecessary metrics to improve clarity and performance.  
-- Built a real‑time Customer Service Order Management dashboard in Salesforce.  
-- Improved data flow systems, reducing inconsistencies between service and order records.  
-- Awarded **“Most Valuable Player of the Month”** and **“Star Performer.”**
-
+<ul>
+  <li>Gathered requirements and translated complex customer service needs into reporting standards.</li>
+  <li>Redesigned dashboards, removing unnecessary metrics to improve clarity and performance.</li>
+  <li>Built a real‑time Customer Service Order Management dashboard in Salesforce.</li>
+  <li>Improved data flow systems, reducing inconsistencies between service and order records.</li>
+  <li>Awarded <strong>“Most Valuable Player of the Month”</strong> and <strong>“Star Performer.”</strong></li>
+</ul>
 </section>
 
 <section>
+<h2>🔹 Projects</h2>
 
-## 🔹 Projects
+<h3>E‑commerce Revenue Optimization & RFM Segmentation</h3>
+<p><em>PostgreSQL, Power BI</em></p>
 
-### **E‑commerce Revenue Optimization & RFM Segmentation**  
-*PostgreSQL, Power BI*
+<ul>
+  <li>Analyzed a <strong>$7.26M dataset</strong>, uncovering <strong>$326,501 in operational waste</strong>.</li>
+  <li>Modeled an <strong>8.4× efficiency shift</strong> by reallocating marketing spend.</li>
+  <li>Built an RFM model to identify “Champion” customers and retention opportunities.</li>
+  <li>Designed a narrative‑driven dashboard for executive decision‑making.</li>
+</ul>
 
-- Analyzed a **$7.26M dataset**, uncovering **$326,501 in operational waste**.  
-- Modeled an **8.4× efficiency shift** by reallocating marketing spend.  
-- Built an RFM model to identify “Champion” customers and retention opportunities.  
-- Designed a narrative‑driven dashboard for executive decision‑making.
+<hr>
 
----
+<h3>Holiday Sales Promo Dashboard</h3>
+<p><em>Tableau</em></p>
 
-### **Holiday Sales Promo Dashboard**  
-*Tableau*
+<ul>
+  <li>Built executive dashboards with KPI tiles, comparative charts, and dynamic tooltips.</li>
+  <li>Created uplift metrics (Promo vs Organic) to identify underperforming segments.</li>
+  <li>Applied institutional‑grade formatting and published on Tableau Public.</li>
+</ul>
 
-- Built executive dashboards with KPI tiles, comparative charts, and dynamic tooltips.  
-- Created uplift metrics (Promo vs Organic) to identify underperforming segments.  
-- Applied institutional‑grade formatting and published on Tableau Public.
+<hr>
 
----
+<h3>Explainable & Agentic AI for Hospital Cost Management</h3>
+<p><em>Python, SHAP, LIME</em></p>
 
-### **Explainable & Agentic AI for Hospital Cost Management**  
-*Python, SHAP, LIME*
-
-- Analyzed SPARCS inpatient data to identify key cost drivers.  
-- Built a hybrid XAI simulation framework for cost‑reduction strategies.  
-- Achieved potential savings of **up to $10,460 per patient**.
-
+<ul>
+  <li>Analyzed SPARCS inpatient data to identify key cost drivers.</li>
+  <li>Built a hybrid XAI simulation framework for cost‑reduction strategies.</li>
+  <li>Achieved potential savings of <strong>up to $10,460 per patient</strong>.</li>
+</ul>
 </section>
 
 <section>
+<h2>🔹 Education</h2>
 
-## 🔹 Education
-
-**M.Sc. Computer Science** — Saarland University, Germany  
-**B.Tech Electronics & Communication Engineering** — GITAM University, India
-
+<p><strong>M.Sc. Computer Science</strong> — Saarland University, Germany</p>
+<p><strong>B.Tech Electronics & Communication Engineering</strong> — GITAM University, India</p>
 </section>
 
 <section>
+<h2>🔹 Interests</h2>
 
-## 🔹 Interests
-
-Reading (self‑help, biographies, fiction)  
-Embroidery & creative crafts  
-Nature walks around Saarland  
-Traveling with friends
-
+<ul>
+  <li>Reading (self‑help, biographies, fiction)</li>
+  <li>Embroidery & creative crafts</li>
+  <li>Nature walks around Saarland</li>
+  <li>Traveling with friends</li>
+</ul>
 </section>
 
 <section>
+<h2>🔹 Contact</h2>
 
-## 🔹 Contact  
-<a id="contact"></a>
-
-📧 **Email:** vidyavardhinikurada@gmail.com  
-📍 Saarbrücken, Germany  
-🔗 **LinkedIn:** *Add your link here*  
-🔗 **GitHub:** https://github.com/Vidya-0119  
+<p>📧 <strong>Email:</strong> vidyavardhinikurada@gmail.com</p>
+<p>📍 Saarbrücken, Germany</p>
+<p>🔗 <strong>LinkedIn:</strong> *Add your link here*</p>
+<p>🔗 <strong>GitHub:</strong> https://github.com/Vidya-0119</p>
 
 </section>
 
 ---
-
-*This site is built with GitHub Pages and hosted at **kvvardhini.me***.
+<p><em>This site is built with GitHub Pages and hosted at <strong>kvvardhini.me</strong></em></p>
