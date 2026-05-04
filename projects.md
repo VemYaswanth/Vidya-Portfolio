@@ -1,3 +1,11 @@
+---
+title: "Vidya Vardhini Kurada"
+css: /assets/style.css
+---
+
+
+
+
 # Projects
 
 Below are selected projects that demonstrate my skills in analytics engineering, data modeling, visualization, and applied machine learning.
