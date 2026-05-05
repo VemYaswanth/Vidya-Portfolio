@@ -20,7 +20,7 @@ Below are selected projects that demonstrate my skills in analytics engineering,
 - Built an RFM model to identify “Champion” customers.  
 - Designed a narrative-driven dashboard for executive decision-making.
 
-[View GitHub Repo](#)
+[View GitHub Repo](https://github.com/Vidya-0119/E-commerce-Dashboard)
 
 ---
 
@@ -31,7 +31,7 @@ Below are selected projects that demonstrate my skills in analytics engineering,
 - Created uplift metrics (Promo vs Organic) to identify underperforming segments.  
 - Published on Tableau Public with full documentation.
 
-[View Dashboard](#)
+[View Dashboard](https://public.tableau.com/views/DoPromosReallyPayOffASalesDeepDive/RetailSalesTrendsAMonthlyDay-of-WeekView?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -42,7 +42,7 @@ Below are selected projects that demonstrate my skills in analytics engineering,
 - Built a hybrid XAI simulation framework for cost-reduction strategies.  
 - Achieved potential savings of **up to $10,460 per patient**.
 
-[View GitHub Repo](#)
+[View GitHub Repo](https://github.com/mahsaama/UnveilingHospitalCostDrivers)
 
 ---
 
@@ -51,5 +51,3 @@ Below are selected projects that demonstrate my skills in analytics engineering,
 - Modeled Salesforce objects into analytics-ready marts.  
 - Implemented data quality tests and lineage.  
 - Built churn & revenue dashboards.
-
-[View GitHub Repo](#)
