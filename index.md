@@ -8,7 +8,7 @@ css: "/assets/style.css"
   <a href="/">Home</a> 
   <a href="projects">Projects</a>
   <a href="#certifications">Certifications</a>
-  <a href="/assets/Vidya_Vardhini_Kurada_Data_Analyst_Intern_Latest.pdf">Resume</a>
+  <a href="/Vidya_Vardhini_Kurada_Data_Analyst_Intern_Latest.pdf">Resume</a>
   <a href="#contact">Contact</a>
 </nav>
 
