@@ -179,3 +179,25 @@ a:hover {
     padding: 2rem 2.1rem 2.2rem;
   }
 }
+.cert-grid {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.cert-card {
+  background: rgba(255, 255, 255, 0.85);
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  text-align: center;
+  width: 180px;
+}
+
+.cert-card img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 0.6rem;
+  border-radius: 0.5rem;
+}
