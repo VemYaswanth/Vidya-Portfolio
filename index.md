@@ -5,8 +5,8 @@ css: "/assets/style.css"
 ---
 
 <nav>
-  <a href="/">Home</a>
-  <a href="#projects">Projects</a>
+  <a href="/">Home</a> 
+  <a href="projects">Projects</a>
   <a href="#certifications">Certifications</a>
   <a href="/assets/Vidya_Vardhini_Kurada_Data_Analyst_Intern_Latest.pdf">Resume</a>
   <a href="#contact">Contact</a>
@@ -170,14 +170,16 @@ css: "/assets/style.css"
 </ul>
 </section>
 
-<section>
-<h2>🔹 Contact</h2>
+<section id="contact" class="contact">
+  <h2>🔹 Contact</h2>
 
-<p>📧 <strong>Email:</strong> vidyavardhinikurada@gmail.com</p>
-<p>📍 Saarbrücken, Germany</p>
-<p>🔗 <strong>LinkedIn:</strong> *Add your link here*</p>
-<p>🔗 <strong>GitHub:</strong> https://github.com/Vidya-0119</p>
-
+  <p>📧 <strong>Email:</strong> vidyavardhinikurada@gmail.com</p>
+  <p>📍 Saarbrücken, Germany</p>
+  <p>🔗 <strong>LinkedIn:</strong> https://www.linkedin.com/in/vidya-vardhini-kurada-b51629168/</p>
+  <p>🔗 <strong>GitHub:</strong> https://github.com/Vidya-0119</p>
+  <p>🔗 <strong>Trailhead:</strong> https://www.salesforce.com/trailblazer/profile</p>
+  <p>🔗 <strong>Tableau:</strong> https://public.tableau.com/app/profile/vidya.vardhini.kurada/vizzes</p>
 </section>
+
 
 <p><em>This site is built with GitHub Pages and hosted at <strong>kvvardhini.me</strong></em></p>
