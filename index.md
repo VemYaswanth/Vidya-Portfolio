@@ -116,6 +116,31 @@ css: "/assets/style.css"
 </div>
 </section>
 
+<section id="certifications">
+  <h2>Certifications</h2>
+
+  <h3>Salesforce Certifications</h3>
+  <div class="cert-grid">
+    <div class="cert-card">
+      <img src="/assets/salesforce-admin.png" alt="Salesforce Certified Administrator badge">
+      <p><strong>Salesforce Certified Administrator</strong></p>
+    </div>
+
+    <div class="cert-card">
+      <img src="/assets/salesforce-service-cloud.png" alt="Salesforce Certified Service Cloud Consultant badge">
+      <p><strong>Salesforce Certified Service Cloud Consultant</strong></p>
+    </div>
+  </div>
+
+  <h3>Other Certifications</h3>
+  <ul>
+    <li><strong>Biomedical Nanotechnologies (63%)</strong> — IIT Rourkela, NPTEL</li>
+    <li><strong>Embedded Systems</strong> — Teck Team Solutions</li>
+    <li><strong>Ethical Hacking (55%)</strong> — IIT Kharagpur, NPTEL</li>
+  </ul>
+</section>
+
+
 <section>
 <h2>🔹 Education</h2>
 
