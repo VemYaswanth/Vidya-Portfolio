@@ -79,7 +79,7 @@ css: "/assets/style.css"
 </section>
 
 <section class="projects">
-## Projects
+<h2>🔹 Projects</h2>
 <div class="project-card">
 
 <h3>E‑commerce Revenue Optimization & RFM Segmentation</h3>
