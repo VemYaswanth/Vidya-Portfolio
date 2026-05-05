@@ -21,6 +21,7 @@ Below are selected projects that demonstrate my skills in analytics engineering,
 - Designed a narrative-driven dashboard for executive decision-making.
 
 [View GitHub Repo](https://github.com/Vidya-0119/E-commerce-Dashboard)
+[View GitHub Repo]([https://github.com/Vidya-0119/E-commerce-Dashboard](https://github.com/Vidya-0119/E-commerce-Revenue-Optimization-RFM-Segmentation))
 
 ---
 
