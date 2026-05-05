@@ -122,13 +122,21 @@ css: "/assets/style.css"
   <h3>Salesforce Certifications</h3>
   <div class="cert-grid">
     <div class="cert-card">
-      <img src="/assets/salesforce-admin.png" alt="Salesforce Certified Administrator badge">
+      <img src="/assets/2021-03_Badge_SF-Certified_Administrator_High-Res.png" alt="Salesforce Certified Administrator badge">
       <p><strong>Salesforce Certified Administrator</strong></p>
     </div>
 
     <div class="cert-card">
-      <img src="/assets/salesforce-service-cloud.png" alt="Salesforce Certified Service Cloud Consultant badge">
+      <img src="/assets/2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png" alt="Salesforce Certified Service Cloud Consultant badge">
       <p><strong>Salesforce Certified Service Cloud Consultant</strong></p>
+    </div>
+  </div>
+
+  <h3>Data Engineering Certifications</h3>
+  <div class="cert-grid">
+    <div class="cert-card">
+      <img src="/assets/astronomer certification image.png" alt="Apache Airflow Fundamentals badge">
+      <p><strong>Apache Airflow Fundamentals — Astronomer</strong></p>
     </div>
   </div>
 
@@ -139,6 +147,7 @@ css: "/assets/style.css"
     <li><strong>Ethical Hacking (55%)</strong> — IIT Kharagpur, NPTEL</li>
   </ul>
 </section>
+
 
 
 <section>
