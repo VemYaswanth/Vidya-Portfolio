@@ -78,8 +78,9 @@ css: "/assets/style.css"
 </ul>
 </section>
 
-<section>
-<h2>🔹 Projects</h2>
+<section class="projects">
+## Projects
+<div class="project-card">
 
 <h3>E‑commerce Revenue Optimization & RFM Segmentation</h3>
 <p><em>PostgreSQL, Power BI</em></p>
@@ -112,6 +113,7 @@ css: "/assets/style.css"
   <li>Built a hybrid XAI simulation framework for cost‑reduction strategies.</li>
   <li>Achieved potential savings of <strong>up to $10,460 per patient</strong>.</li>
 </ul>
+</div>
 </section>
 
 <section>
