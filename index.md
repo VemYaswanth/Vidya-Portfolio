@@ -194,7 +194,7 @@ css: "/assets/style.css"
   </p>
 
   <p>🔗 <strong>Trailhead:</strong>
-    <a href="https://www.salesforce.com/trailblazer/profile" target="_blank">
+    <a href="https://www.salesforce.com/trailblazer/vkurada01" target="_blank">
       Salesforce Trailblazer Profile
     </a>
   </p>
