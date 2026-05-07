@@ -12,6 +12,9 @@ css: "/assets/style.css"
   <a href="#contact">Contact</a>
 </nav>
 
+<span class="lang-switch">
+  <strong>EN</strong> | <a href="/de/">DE</a>
+</span>
 
 <div class="hero">
   <!-- Upload your photo and replace photo.jpg -->
