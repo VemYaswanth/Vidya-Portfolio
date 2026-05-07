@@ -10,11 +10,12 @@ css: "/assets/style.css"
   <a href="#certifications">Certifications</a>
   <a href="/Vidya_Vardhini_Kurada_Data_Analyst_Intern_Latest.pdf">Resume</a>
   <a href="#contact">Contact</a>
-</nav>
-
-<span class="lang-switch">
+  
+  <span class="lang-switch">
   <strong>EN</strong> | <a href="/de/">DE</a>
 </span>
+</nav>
+
 
 <div class="hero">
   <!-- Upload your photo and replace photo.jpg -->
