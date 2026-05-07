@@ -201,3 +201,18 @@ a:hover {
   margin-bottom: 0.6rem;
   border-radius: 0.5rem;
 }
+
+.lang-switch {
+  float: right;
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
+.lang-switch a {
+  text-decoration: none;
+  color: #0077cc;
+}
+
+.lang-switch a:hover {
+  text-decoration: underline;
+}
