@@ -12,7 +12,7 @@ css: "/assets/style.css"
   <a href="#contact">Contact</a>
   
   <span class="lang-switch">
-  <strong>EN</strong> | <a href="/de/">DE</a>
+    <strong>EN</strong> | <a href="/de/">DE</a>
 </span>
 </nav>
 
